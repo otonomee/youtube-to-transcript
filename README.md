@@ -13,7 +13,7 @@ This script downloads audio from a YouTube video, transcribes it using the Whisp
 ## Usage
 Run the script from the command line, passing the YouTube URL as an argument:
 ```
-python youtube_transcript_tool.py <youtube_url>
+python main.py <youtube_url>
 ```
 
 Example
